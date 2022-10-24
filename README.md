@@ -1,2 +1,3 @@
-# redwine
-My second Github repo
+# HarvardX - Capstone Project: Red Wine Quality
+
+
